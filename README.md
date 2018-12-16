@@ -13,3 +13,4 @@ TO_ADDR = 'youremail1@gmail.com'
 TUM_MOODLE_MAIL = 'your-TUM-Moodle-Login'
 TUM_MOODLE_PASSWD = 'your-TUM-Moodle-passwd'
 ```
+run `python moodlewatcher.py`
