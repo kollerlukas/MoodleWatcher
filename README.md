@@ -14,3 +14,4 @@ TUM_MOODLE_MAIL = 'your-TUM-Moodle-Login'
 TUM_MOODLE_PASSWD = 'your-TUM-Moodle-passwd'
 ```
 run `python moodlewatcher.py`
+(might need an inital run with [`mail.sendMail(sbj, msg)`]( https://github.com/kollerlukas/MoodleWatcher/blob/8a688daa932f9ca78cc729909f678d4a21c8646c/moodlewatcher.py#L36) commented out; otherwise you will receive a mail for every resource ever posted in a moodle where you where signed up)
