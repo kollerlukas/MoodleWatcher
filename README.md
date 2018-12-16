@@ -1,5 +1,6 @@
 # MoodleWatcher
-Simple Python Program that notifies you of new resources on the TUM Moodle page. I am planning to have this run maybe once a day on my Raspberry Pi.
+Simple Python Program that notifies you of new resources on the TUM Moodle page. 
+I am planning to have this run maybe once a day on my Raspberry Pi.
 ## Setup
 create a new file `creds.py` like this one:
 ```python
