@@ -25,6 +25,12 @@ wheels/
 *.egg
 MANIFEST
 
+# not push the credentials
+creds.py
+res.json
+push_files_to_pi.sh
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
